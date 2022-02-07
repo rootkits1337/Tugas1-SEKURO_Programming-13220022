@@ -25,3 +25,5 @@ Membuat pull request
 Merge pull request
 ![ss video4](./images/video4_3.png)
 
+Video5: Menjelaskan cara bekerja dengan git, jadi kita dapat mengupload dan edit source code ke github via git
+
