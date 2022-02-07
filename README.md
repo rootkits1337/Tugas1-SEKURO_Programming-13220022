@@ -33,5 +33,5 @@ Video5: Menjelaskan cara bekerja dengan git, jadi kita dapat mengupload dan edit
 Video 6: Membuat branch lalu melakukan merge dari branch baru tersebut ke main branch
 ![ss video6](./images/video6.png)
 
-Video 12: Membuat branch lalu melakukan merge dari branch baru tersebut ke main branch
+Video 12: Membuat file gitinore untuk meng ignore file pada suatu git repository
 ![ss video12](./images/video12.png)
