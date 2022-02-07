@@ -34,4 +34,4 @@ Video 6: Membuat branch lalu melakukan merge dari branch baru tersebut ke main b
 ![ss video6](./images/video6.png)
 
 Video 12: Membuat branch lalu melakukan merge dari branch baru tersebut ke main branch
-![ss video6](./images/video6.png)
+![ss video12](./images/video12.png)
