@@ -26,4 +26,7 @@ Merge pull request
 ![ss video4](./images/video4_3.png)
 
 Video5: Menjelaskan cara bekerja dengan git, jadi kita dapat mengupload dan edit source code ke github via git
+![ss video5](./images/video5.png)
 
+Video 6: Membuat branch lalu melakukan merge dari branch baru tersebut ke main branch
+![ss video6](./images/video6.png)
