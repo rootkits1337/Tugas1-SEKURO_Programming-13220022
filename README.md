@@ -7,5 +7,8 @@ Video2: Pada video ini diajarkan cara membuat akun github, membuat repository, d
 
 
 Video3: Pada video ini diajarkan mengenai branch pada git, di mana kita dapat membuat branch baru sehingga tidak mengganggu branch main, lalu kita dapat melakukan merging dari satu branch ke branch lain
+![ss video3](./images/video3.png)
+
+![ss video3](./images/video3_2.png)
 
 
